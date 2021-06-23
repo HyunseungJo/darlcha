@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/darlcha/static/css/main.835ae526.chunk.css",
-    "main.js": "/darlcha/static/js/main.8bd21e8f.chunk.js",
-    "main.js.map": "/darlcha/static/js/main.8bd21e8f.chunk.js.map",
+    "main.js": "/darlcha/static/js/main.7536bf4f.chunk.js",
+    "main.js.map": "/darlcha/static/js/main.7536bf4f.chunk.js.map",
     "runtime-main.js": "/darlcha/static/js/runtime-main.0cb3c376.js",
     "runtime-main.js.map": "/darlcha/static/js/runtime-main.0cb3c376.js.map",
-    "static/js/2.6faba219.chunk.js": "/darlcha/static/js/2.6faba219.chunk.js",
-    "static/js/2.6faba219.chunk.js.map": "/darlcha/static/js/2.6faba219.chunk.js.map",
+    "static/js/2.d345bcc7.chunk.js": "/darlcha/static/js/2.d345bcc7.chunk.js",
+    "static/js/2.d345bcc7.chunk.js.map": "/darlcha/static/js/2.d345bcc7.chunk.js.map",
     "index.html": "/darlcha/index.html",
     "static/css/main.835ae526.chunk.css.map": "/darlcha/static/css/main.835ae526.chunk.css.map",
-    "static/js/2.6faba219.chunk.js.LICENSE.txt": "/darlcha/static/js/2.6faba219.chunk.js.LICENSE.txt",
+    "static/js/2.d345bcc7.chunk.js.LICENSE.txt": "/darlcha/static/js/2.d345bcc7.chunk.js.LICENSE.txt",
     "static/media/bundle_home.png": "/darlcha/static/media/bundle_home.36ecc38c.png",
     "static/media/Mainhome.css": "/darlcha/static/media/home_bg_pc.6c8e2166.png",
     "static/media/Principle.css": "/darlcha/static/media/icon_sugar_home.e9c4df7e.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0cb3c376.js",
-    "static/js/2.6faba219.chunk.js",
+    "static/js/2.d345bcc7.chunk.js",
     "static/css/main.835ae526.chunk.css",
-    "static/js/main.8bd21e8f.chunk.js"
+    "static/js/main.7536bf4f.chunk.js"
   ]
 }
