@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.saleitems {
+  text-decoration: none;
+  color: black;
+  display: flex;
+  justify-content: center;
+  width: 1280px;
+  margin: 0 auto;
+  margin-top: 35px;
+}
+.saleitems:hover {
+  color: black;
+  text-decoration: none;
+}
+.itemimg {
+  width: 368px;
+  height: 368px;
+}
+.saleitems_wrap {
+  display: flex;
+  padding: 0 168px;
+}
+.item_description_wrap {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.item_description1 {
+  font-size: 22px;
+  font-weight: 700;
+}
+.item_description2 {
+  font-size: 14px;
+  opacity: 0.8;
+}
+.item_description3 {
+  font-size: 11px;
+  opacity: 0.8;
+}
+.descriptionmm {
+  display: flex;
+  flex-direction: column;
+}
+.item_description4_1 {
+  font-size: 32px;
+  font-weight: 700;
+}
+.item_description4_2 {
+  font-size: 18px;
+}
+.item_description5 {
+  display: flex;
+}
+.item_description5_1 {
+  color: white;
+  background-color: red;
+  font-size: 11px;
+  margin-right: 5px;
+  padding: 0 5px;
+}
+.item_description5_2 {
+  color: white;
+  background-color: black;
+  font-size: 11px;
+  padding: 0 5px;
+}

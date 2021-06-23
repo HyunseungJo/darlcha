@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  padding: 40px 0 0;
+}
+.header_mainwrap {
+  display: flex;
+  justify-content: center;
+}
+.header_main {
+  display: flex;
+  justify-content: space-between;
+  width: 560px;
+  align-items: center;
+  padding: 0 30px;
+}
+.darlcha {
+  display: flex;
+  justify-content: center;
+  font-size: 28px;
+  color: black;
+}
+.darlcha:hover {
+  color: black;
+  text-decoration: none;
+}
+.darl {
+  font-weight: 700;
+}
+.cha {
+  font-weight: 300;
+}
+
+.header_icon {
+  display: flex;
+  align-items: center;
+}
+.header_icon1 {
+  background-image: url("../assets/images/icon_my.png");
+  background-size: 25px 25px;
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+}
+.header_icon2 {
+  background-image: url("../assets/images/icon_cart.png");
+  background-size: 25px 25px;
+  width: 25px;
+  height: 25px;
+}
+
+.Navigation {
+  justify-content: center;
+  font-size: 14px;
+  padding: 20px 0 0 0;
+}
+.Navigation li {
+  padding: 0;
+  list-style: none;
+  height: 25px;
+  text-align: center;
+}
+.Navigation .story p {
+  margin-right: 10px;
+}
+.Navigation .naverstore p {
+  margin-left: 10px;
+}
+.Navigation li a {
+  text-decoration: none;
+  color: black;
+  border: 0;
+}

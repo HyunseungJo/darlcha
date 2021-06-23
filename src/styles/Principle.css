@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.principlewrap1 {
+  padding: 90px 0;
+  background-color: #fbfbfb;
+  margin-top: 100px;
+}
+.principlewrap2 {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+.principle_title {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.principle_semititle {
+  font-size: 14px;
+  margin: 20px 0;
+}
+.principle_description {
+  display: flex;
+  justify-content: center;
+  
+}
+.principle_img1 {
+  background-image: url("../assets/images/icon_sugar_home.png");
+  
+  background-repeat: none;
+  border-radius:50%;
+  overflow:hidden;
+  width:220px;
+  height:220px;
+  position:relative;
+}
+.principle_img2 {
+  background-image: url("../assets/images/icon_caffeine_home.png");
+  background-repeat: none;
+  border-radius:50%;
+  overflow:hidden;
+  width:220px;
+  height:220px;
+  position:relative;
+  margin:0 15px;
+}
+.principle_img3 {
+  background-image: url("../assets/images/icon_milk_home.png");
+  background-repeat: none;
+  border-radius:50%;
+  overflow:hidden;
+  width:220px;
+  height:220px;
+  position:relative;
+  
+}
+.opacity{
+  position:absolute;
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  background-color:rgba(0,0,0,0.3)
+}
+.opacity p{
+  font-size: 18px;
+  color: white;
+  font-weight: 700;
+  margin:0;
+}

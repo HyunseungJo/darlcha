@@ -1,0 +1,22 @@
+.Barleytea_wrap1 {
+  padding-top: 80px;
+}
+.Barleytea_wrap2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.Barleytea1 {
+  font-size: 18px;
+}
+.Barleytea2 {
+  font-size: 32px;
+  font-weight: 700;
+}
+.Barleytea3 {
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: center;
+  opacity: 0.8;
+}
