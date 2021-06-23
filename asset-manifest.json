@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/darlcha/static/css/main.835ae526.chunk.css",
-    "main.js": "/darlcha/static/js/main.8e96355e.chunk.js",
-    "main.js.map": "/darlcha/static/js/main.8e96355e.chunk.js.map",
-    "runtime-main.js": "/darlcha/static/js/runtime-main.0cb3c376.js",
-    "runtime-main.js.map": "/darlcha/static/js/runtime-main.0cb3c376.js.map",
-    "static/js/2.6faba219.chunk.js": "/darlcha/static/js/2.6faba219.chunk.js",
-    "static/js/2.6faba219.chunk.js.map": "/darlcha/static/js/2.6faba219.chunk.js.map",
-    "index.html": "/darlcha/index.html",
-    "static/css/main.835ae526.chunk.css.map": "/darlcha/static/css/main.835ae526.chunk.css.map",
-    "static/js/2.6faba219.chunk.js.LICENSE.txt": "/darlcha/static/js/2.6faba219.chunk.js.LICENSE.txt",
-    "static/media/bundle_home.png": "/darlcha/static/media/bundle_home.36ecc38c.png",
-    "static/media/Mainhome.css": "/darlcha/static/media/home_bg_pc.6c8e2166.png",
-    "static/media/Principle.css": "/darlcha/static/media/icon_sugar_home.e9c4df7e.png",
-    "static/media/latte_home.png": "/darlcha/static/media/latte_home.3a45f28d.png",
-    "static/media/logo.6ce24c58.svg": "/darlcha/static/media/logo.6ce24c58.svg",
-    "static/media/original_home.png": "/darlcha/static/media/original_home.13a1f129.png"
+    "main.css": "/HyunseungJo/darlcha/static/css/main.88b90728.chunk.css",
+    "main.js": "/HyunseungJo/darlcha/static/js/main.8e96355e.chunk.js",
+    "main.js.map": "/HyunseungJo/darlcha/static/js/main.8e96355e.chunk.js.map",
+    "runtime-main.js": "/HyunseungJo/darlcha/static/js/runtime-main.2563a369.js",
+    "runtime-main.js.map": "/HyunseungJo/darlcha/static/js/runtime-main.2563a369.js.map",
+    "static/js/2.6faba219.chunk.js": "/HyunseungJo/darlcha/static/js/2.6faba219.chunk.js",
+    "static/js/2.6faba219.chunk.js.map": "/HyunseungJo/darlcha/static/js/2.6faba219.chunk.js.map",
+    "index.html": "/HyunseungJo/darlcha/index.html",
+    "static/css/main.88b90728.chunk.css.map": "/HyunseungJo/darlcha/static/css/main.88b90728.chunk.css.map",
+    "static/js/2.6faba219.chunk.js.LICENSE.txt": "/HyunseungJo/darlcha/static/js/2.6faba219.chunk.js.LICENSE.txt",
+    "static/media/bundle_home.png": "/HyunseungJo/darlcha/static/media/bundle_home.36ecc38c.png",
+    "static/media/Mainhome.css": "/HyunseungJo/darlcha/static/media/home_bg_pc.6c8e2166.png",
+    "static/media/Principle.css": "/HyunseungJo/darlcha/static/media/icon_sugar_home.e9c4df7e.png",
+    "static/media/latte_home.png": "/HyunseungJo/darlcha/static/media/latte_home.3a45f28d.png",
+    "static/media/logo.6ce24c58.svg": "/HyunseungJo/darlcha/static/media/logo.6ce24c58.svg",
+    "static/media/original_home.png": "/HyunseungJo/darlcha/static/media/original_home.13a1f129.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cb3c376.js",
+    "static/js/runtime-main.2563a369.js",
     "static/js/2.6faba219.chunk.js",
-    "static/css/main.835ae526.chunk.css",
+    "static/css/main.88b90728.chunk.css",
     "static/js/main.8e96355e.chunk.js"
   ]
 }
