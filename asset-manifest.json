@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Ddarlcha/static/css/main.71c5aa8f.chunk.css",
-    "main.js": "/Ddarlcha/static/js/main.8bd21e8f.chunk.js",
-    "main.js.map": "/Ddarlcha/static/js/main.8bd21e8f.chunk.js.map",
-    "runtime-main.js": "/Ddarlcha/static/js/runtime-main.46c88c71.js",
-    "runtime-main.js.map": "/Ddarlcha/static/js/runtime-main.46c88c71.js.map",
-    "static/js/2.6faba219.chunk.js": "/Ddarlcha/static/js/2.6faba219.chunk.js",
-    "static/js/2.6faba219.chunk.js.map": "/Ddarlcha/static/js/2.6faba219.chunk.js.map",
-    "index.html": "/Ddarlcha/index.html",
-    "static/css/main.71c5aa8f.chunk.css.map": "/Ddarlcha/static/css/main.71c5aa8f.chunk.css.map",
-    "static/js/2.6faba219.chunk.js.LICENSE.txt": "/Ddarlcha/static/js/2.6faba219.chunk.js.LICENSE.txt",
-    "static/media/bundle_home.png": "/Ddarlcha/static/media/bundle_home.36ecc38c.png",
-    "static/media/Mainhome.css": "/Ddarlcha/static/media/home_bg_pc.6c8e2166.png",
-    "static/media/Principle.css": "/Ddarlcha/static/media/icon_sugar_home.e9c4df7e.png",
-    "static/media/latte_home.png": "/Ddarlcha/static/media/latte_home.3a45f28d.png",
-    "static/media/logo.6ce24c58.svg": "/Ddarlcha/static/media/logo.6ce24c58.svg",
-    "static/media/original_home.png": "/Ddarlcha/static/media/original_home.13a1f129.png"
+    "main.css": "/darlcha/static/css/main.835ae526.chunk.css",
+    "main.js": "/darlcha/static/js/main.8bd21e8f.chunk.js",
+    "main.js.map": "/darlcha/static/js/main.8bd21e8f.chunk.js.map",
+    "runtime-main.js": "/darlcha/static/js/runtime-main.0cb3c376.js",
+    "runtime-main.js.map": "/darlcha/static/js/runtime-main.0cb3c376.js.map",
+    "static/js/2.6faba219.chunk.js": "/darlcha/static/js/2.6faba219.chunk.js",
+    "static/js/2.6faba219.chunk.js.map": "/darlcha/static/js/2.6faba219.chunk.js.map",
+    "index.html": "/darlcha/index.html",
+    "static/css/main.835ae526.chunk.css.map": "/darlcha/static/css/main.835ae526.chunk.css.map",
+    "static/js/2.6faba219.chunk.js.LICENSE.txt": "/darlcha/static/js/2.6faba219.chunk.js.LICENSE.txt",
+    "static/media/bundle_home.png": "/darlcha/static/media/bundle_home.36ecc38c.png",
+    "static/media/Mainhome.css": "/darlcha/static/media/home_bg_pc.6c8e2166.png",
+    "static/media/Principle.css": "/darlcha/static/media/icon_sugar_home.e9c4df7e.png",
+    "static/media/latte_home.png": "/darlcha/static/media/latte_home.3a45f28d.png",
+    "static/media/logo.6ce24c58.svg": "/darlcha/static/media/logo.6ce24c58.svg",
+    "static/media/original_home.png": "/darlcha/static/media/original_home.13a1f129.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.46c88c71.js",
+    "static/js/runtime-main.0cb3c376.js",
     "static/js/2.6faba219.chunk.js",
-    "static/css/main.71c5aa8f.chunk.css",
+    "static/css/main.835ae526.chunk.css",
     "static/js/main.8bd21e8f.chunk.js"
   ]
 }
