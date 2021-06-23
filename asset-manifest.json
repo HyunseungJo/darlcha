@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/darlcha/static/css/main.835ae526.chunk.css",
-    "main.js": "/darlcha/static/js/main.8e96355e.chunk.js",
-    "main.js.map": "/darlcha/static/js/main.8e96355e.chunk.js.map",
+    "main.js": "/darlcha/static/js/main.8bd21e8f.chunk.js",
+    "main.js.map": "/darlcha/static/js/main.8bd21e8f.chunk.js.map",
     "runtime-main.js": "/darlcha/static/js/runtime-main.0cb3c376.js",
     "runtime-main.js.map": "/darlcha/static/js/runtime-main.0cb3c376.js.map",
     "static/js/2.6faba219.chunk.js": "/darlcha/static/js/2.6faba219.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.0cb3c376.js",
     "static/js/2.6faba219.chunk.js",
     "static/css/main.835ae526.chunk.css",
-    "static/js/main.8e96355e.chunk.js"
+    "static/js/main.8bd21e8f.chunk.js"
   ]
 }
