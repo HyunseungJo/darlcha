@@ -9,7 +9,6 @@
   color: black;
   display: flex;
   justify-content: center;
-  width: 1280px;
   margin: 0 auto;
   margin-top: 35px;
 }
@@ -30,22 +29,29 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  width:582px;
 }
 
 .item_description1 {
   font-size: 22px;
   font-weight: 700;
+ 
 }
 .item_description2 {
   font-size: 14px;
-  opacity: 0.8;
+  opacity: 0.6;
+  margin: 10px 0;
 }
 .item_description3 {
   font-size: 11px;
-  opacity: 0.8;
+  opacity: 0.6;
 }
 .descriptionmm {
   display: flex;
+  flex-direction: column;
+}
+.item_description45{
+  display:flex;
   flex-direction: column;
 }
 .item_description4_1 {
@@ -55,19 +61,98 @@
 .item_description4_2 {
   font-size: 18px;
 }
+
 .item_description5 {
   display: flex;
+  
+}
+.item_des51{
+  width:80px;
+  height:17px;
+  background-color: red;
+  display:flex;
+  text-align: center;
+  justify-content: center;
+}
+.item_des52{
+  width:80px;
+  height:17px;
+  background-color: black;
+  margin-left:5px;
+  display:flex;
+  text-align: center;
+  justify-content: center;
 }
 .item_description5_1 {
   color: white;
-  background-color: red;
   font-size: 11px;
-  margin-right: 5px;
-  padding: 0 5px;
+  margin:0;
+  padding:0;
+  
 }
 .item_description5_2 {
   color: white;
-  background-color: black;
-  font-size: 11px;
-  padding: 0 5px;
+  font-size:11px;
+  
 }
+.tea1note{
+  font-size:17px;
+  font-weight: 700;
+  margin:0;
+}
+
+.tea2, .tea3, .tea4{
+  font-size:14px;
+  
+}
+.tea{
+  margin:0;
+}
+
+@media screen and (max-width:1280px) {
+  .saleitems_wrap{
+    flex-direction:column;
+    padding:0 115px;
+    margin-top:30px;
+  }
+  .itemimg{
+    width:480px;
+    height:480px;
+    margin:0 auto;
+  }
+  .item_description_wrap{
+    margin-top:20px;
+    padding:0;
+    width:480px;
+  }
+  .item_description1{
+    font-size:18px;
+  }
+  .item_description2{
+    font-size:12px;
+  }
+  .item_description3{
+    font-size:11px;
+  }
+  .item_description4_1{
+    font-size:22px;
+  }
+  .item_description4_2{
+    font-size: 11px;
+  }
+  .item_description45{
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .item_description5{
+    align-self:flex-end;
+  }
+  .tea1note{
+    font-size:13px;
+    font-weight: 700;
+  }
+  .tea{
+    font-size:12px;
+  }
+  
+  }

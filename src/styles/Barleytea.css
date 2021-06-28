@@ -20,3 +20,15 @@
   text-align: center;
   opacity: 0.8;
 }
+ @media screen and (max-width:1280px) {
+   .Barleytea1{
+     font-size:14px;
+   }
+   .Barleytea2{
+     font-size:22px;
+   }
+   .Barleytea3{
+     font-size:10px;
+   }
+   
+ }

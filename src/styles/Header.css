@@ -74,3 +74,13 @@
   color: black;
   border: 0;
 }
+
+@media screen and (max-width:1280px) {
+  .darlcha{
+    font-size:22px;
+  }
+  .Navigation li a p{
+    font-size:12px;
+  }
+  
+}

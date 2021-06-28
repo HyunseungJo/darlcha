@@ -42,3 +42,48 @@
   text-decoration: none;
   color: white;
 }
+
+@media screen and (max-width:1280px) {
+  .main_1{
+    font-size:22px;
+  }
+  .main_2{
+    font-size:14px;
+    margin:20px 0 35px 0;
+  }
+  .main_3{
+    font-size:14px;
+  }
+  .main{
+    padding:90px 70px;
+  }
+  .mainwrap2{
+    background-position: center;
+    width:100%;
+  }
+  .main_3{
+    padding:15px;
+  }
+}
+@media screen and (max-width:768px){
+  .main_1{
+    font-size:22px;
+  }
+  .main_2{
+    font-size:14px;
+    margin:10px 0 20px 0;
+  }
+  .main_3{
+    font-size:14px;
+  }
+  .main{
+    padding:120px 30px 100px;
+  }
+  .mainwrap2{
+    background-position: center;
+    width:100%;
+  }
+  .main_3{
+    padding:15px 25px;
+  }
+}

@@ -10,7 +10,11 @@ function Saleitems({
   krw = "",
   sale = "",
   firstsale = "",
-  showTasteNote = false
+  showTasteNote = false,
+  top="",
+  mid="",
+  end=""
+
 }) {
   return (
     <div>
@@ -20,19 +24,26 @@ function Saleitems({
           <div className="item_description_wrap">
             <span className="item_description1">{title}</span>
             <div className="item_description2">{description}</div>
-            function() {
-              
-            }
+            <div>{showTasteNote ?<div>
+              <div className="tastenote">
+                <div className="tea1"><p className="tea1note">Taste Note</p></div>
+                <div className="tea2"><p className="tea">{top}</p></div>
+                <div className="tea3"><p className="tea">{mid}</p></div>
+                <div className="tea4"><p className="tea">{end}</p></div>
+              </div>
+            </div> :""}</div>
             <div className="descriptionmm">
               <span className="item_description3">{ea}</span>
+              <div className="item_description45">
               <span className="item_description4">
                 <span className="item_description4_1">{krw}</span>
                 <span className="item_description4_2">원~</span>
               </span>
-              <span className="item_description5">
-                <span className="item_description5_1">{sale}</span>
-                <span className="item_description5_2">{firstsale}</span>
-              </span>
+              <div className="item_description5">
+                <div className="item_des51"><span className="item_description5_1">{sale}</span></div>
+                <div className="item_des52"><span className="item_description5_2">{firstsale}</span></div>
+              </div>
+              </div>
             </div>
           </div>
         </div>

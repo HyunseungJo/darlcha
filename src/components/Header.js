@@ -45,14 +45,15 @@ function Header() {
             <a
               target="_blank"
               href="https://www.instagram.com/darlcha.official/"
-              className="mb-0"
             >
-              인스타그램
+             <p classname="mb-0">인스타그램</p>
             </a>
             
           </li>
           <li className="col-2">
+            <a href="">
             <p className="mb-0">Amazon</p>
+            </a>
           </li>
         </ul>
       </div>
