@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/darlcha/static/css/main.c44cdc60.chunk.css",
+    "main.css": "/darlcha/static/css/main.2f49ec58.chunk.css",
     "main.js": "/darlcha/static/js/main.0af6a5a0.chunk.js",
     "main.js.map": "/darlcha/static/js/main.0af6a5a0.chunk.js.map",
     "runtime-main.js": "/darlcha/static/js/runtime-main.0cb3c376.js",
@@ -8,7 +8,7 @@
     "static/js/2.1ff02e66.chunk.js": "/darlcha/static/js/2.1ff02e66.chunk.js",
     "static/js/2.1ff02e66.chunk.js.map": "/darlcha/static/js/2.1ff02e66.chunk.js.map",
     "index.html": "/darlcha/index.html",
-    "static/css/main.c44cdc60.chunk.css.map": "/darlcha/static/css/main.c44cdc60.chunk.css.map",
+    "static/css/main.2f49ec58.chunk.css.map": "/darlcha/static/css/main.2f49ec58.chunk.css.map",
     "static/js/2.1ff02e66.chunk.js.LICENSE.txt": "/darlcha/static/js/2.1ff02e66.chunk.js.LICENSE.txt",
     "static/media/brightenme_home.png": "/darlcha/static/media/brightenme_home.71a01dc4.png",
     "static/media/bundle_home.png": "/darlcha/static/media/bundle_home.36ecc38c.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.0cb3c376.js",
     "static/js/2.1ff02e66.chunk.js",
-    "static/css/main.c44cdc60.chunk.css",
+    "static/css/main.2f49ec58.chunk.css",
     "static/js/main.0af6a5a0.chunk.js"
   ]
 }
